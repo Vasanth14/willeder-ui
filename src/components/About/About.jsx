@@ -71,6 +71,9 @@ const About = () => {
                                 <div className='abtconth4div'>
                                     <h4>Lorem, ipsum.</h4>
                                 </div>
+                                <div className='abtimgmob'>
+                                    <img src="assets/images/abtimg.png" alt="abtimg" className='abtimgmobdev'/>
+                                </div>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                             </div>
                             <div>

@@ -106,3 +106,33 @@
     height: 100%;
     z-index: -99;
 }
+
+@media (max-width:1200px) {
+    .logoHero {
+        max-width: 320px;
+    }
+}
+
+@media (max-width:991px) {
+    .logoHero {
+        max-width: 240px;
+    }
+    .heroSub p {
+        font-size: 24px;
+    }
+    .herop p, .scrollSec p {
+        font-size: 18px;
+    }
+    .slider {
+        height: 640px;
+    }
+    .slide {
+        object-fit: fill;
+    }
+}
+
+@media (max-width: 767px) {
+    .logoHero {
+        max-width: 204px;
+    }
+}
